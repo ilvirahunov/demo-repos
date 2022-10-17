@@ -1,0 +1,14 @@
+@import "src/themes/base/Bar-parameters.css";
+@import "src/themes/base/FlexibleColumnLayout-parameters.css";
+@import "src/themes/base/IllustratedMessage-parameters.css";
+@import "src/themes/base/MediaGallery-parameters.css";
+@import "src/themes/base/MediaGalleryItem-parameters.css";
+@import "src/themes/base/Page-parameters.css";
+@import "src/themes/base/ProductSwitchItem-parameters.css";
+@import "src/themes/sap_fiori_3/ShellBar-parameters.css";
+@import "src/themes/base/SideNavigation-parameters.css";
+@import "src/themes/base/TimelineItem-parameters.css";
+@import "src/themes/base/UploadCollection-parameters.css";
+@import "src/themes/base/ViewSettingsDialog-parameters.css";
+@import "src/themes/base/Wizard-parameters.css";
+@import "src/themes/base/WizardTab-parameters.css";
